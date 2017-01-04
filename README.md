@@ -13,3 +13,4 @@ Arbitrator design module : arb.sv
 script to run this project : sv_vcs
 command to run : ./sv_vcs top.sv
 Result file : result_arb.txt
+All done with a smile :) :)
