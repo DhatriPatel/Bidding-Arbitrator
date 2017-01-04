@@ -1,0 +1,53 @@
+/apps/synopsys/VCSMX/bin/vcs
+
+Warning-[LNX_OS_VERUN] Unsupported Linux version
+  Linux version 'Fedora release 24 (Twenty Four)' is not supported on 'x86_64'
+  officially, assuming linux compatibility by default. Set VCS_ARCH_OVERRIDE 
+  to linux or suse32 to override.
+  Please refer to release notes for information on supported platforms.
+
+
+Warning-[LINX_KRNL] Unsupported Linux kernel
+  Linux kernel '4.8.10-200.fc24.x86_64' is not supported.
+  Supported versions are 2.4* or 2.6*.
+
+
+Warning-[UNKWN_OPTVSIM] Unknown option passed
+  Ignoring unknown option '-' passed to 'vcs' and continuing compilation.
+
+                         Chronologic VCS (TM)
+           Version I-2014.03-2 -- Fri Dec  9 13:35:33 2016
+               Copyright (c) 1991-2014 by Synopsys Inc.
+                         ALL RIGHTS RESERVED
+
+This program is proprietary and confidential information of Synopsys Inc.
+and may be used and disclosed only as authorized in a license agreement
+controlling such use and disclosure.
+
+The design hasn't changed and need not be recompiled. 
+If you really want to, delete file simv.daidir/.vcs.timestamp and
+run VCS again.
+
+Chronologic VCS simulator copyright 1991-2014
+Contains Synopsys proprietary information.
+Compiler version I-2014.03-2; Runtime version I-2014.03-2;  Dec  9 13:35 2016
+ For master           0 to slave           0 reads    8950 writes    7937
+ For master           0 to slave           1 reads    9167 writes    8252
+ For master           0 to slave           2 reads    8982 writes    8259
+ For master           0 to slave           3 reads    8909 writes    7937
+ For master           1 to slave           0 reads    1986 writes    1956
+ For master           1 to slave           1 reads    1928 writes    1995
+ For master           1 to slave           2 reads    1973 writes    1996
+ For master           1 to slave           3 reads    1931 writes    1909
+ For master           2 to slave           0 reads     752 writes     851
+ For master           2 to slave           1 reads     788 writes     755
+ For master           2 to slave           2 reads     803 writes     806
+ For master           2 to slave           3 reads     746 writes     799
+ For master           3 to slave           0 reads    1213 writes    1256
+ For master           3 to slave           1 reads    1168 writes    1193
+ For master           3 to slave           2 reads    1196 writes    1182
+ For master           3 to slave           3 reads    1194 writes    1226
+           V C S   S i m u l a t i o n   R e p o r t 
+Time: 1000001
+CPU Time:      1.090 seconds;       Data structure size:   0.0Mb
+Fri Dec  9 13:35:40 2016
