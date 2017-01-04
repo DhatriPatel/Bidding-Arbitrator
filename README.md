@@ -12,6 +12,8 @@ Slave design module : slvx.sv
 Arbitrator design module : arb.sv     
 script to run this project : sv_vcs       
 command to run : ./sv_vcs top.sv     
-Result file : result_arb.txt      
+Result file : result_arb.txt         
+Tools for simulation: Synopsys VCS or any EDA tools that are compatible to verilog/systemverilog language     
+Programming Language: SystemVerilog/Verilog
 
 All done with a smile :) :)
